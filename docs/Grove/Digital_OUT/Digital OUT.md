@@ -27,7 +27,7 @@ Grove向けにHIGH or LOWのどちらかを出力できる、デジタル出力�
 <!-- 接続例があればなおよい -->
 
 <!-- master以下の部分を変更してください。 -->
-<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/master/Grove/Digital_OUT/Digital_OUT.ino">
+<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Grove/Digital_OUT/Digital_OUT.ino">
 </script>
 
 

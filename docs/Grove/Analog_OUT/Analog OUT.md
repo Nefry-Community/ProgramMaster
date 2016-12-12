@@ -28,7 +28,7 @@ Groveのアナログ出力モジュール or アナログ出力(LEDなど)
 <!-- 接続例があればなおよい -->
 
 <!-- master以下の部分を変更してください。 -->
-<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/master/Grove/Analog_OUT/Analog_OUT.ino">
+<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Grove/Analog_OUT/Analog_OUT.ino">
 </script>
 
 
