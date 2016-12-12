@@ -25,8 +25,8 @@
 
 <!-- 接続例があればなおよい -->
 
-<!-- master以下の部分を変更してください。 -->
-<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/master/Grove/Analog_IN/Analog_IN.ino">
+<!-- gh-pages以下の部分を変更してください。 -->
+<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Grove/Analog_IN/Analog_IN.ino">
 </script>
 
 
