@@ -6,12 +6,12 @@ void setup() {
 }
 int value ;
 void loop() {
-  for (value = 0; value <= 255; value += 5 ) {
+  for (value = 0; value <= 1023; value += 5 ) {
     analogWrite(PIN, value );
     Nefry.setLed(value,0,0);
     Nefry.ndelay( 30 );
   }
-  for (value = 255; value >= 0; value -= 5 ) {
+  for (value = 1023; value >= 0; value -= 5 ) {
     analogWrite(PIN, value );
     Nefry.setLed(value,0,0);
     Nefry.ndelay( 30 );

@@ -1,0 +1,49 @@
+
+# Project information
+site_name: 'Nefry Platform'
+site_description: 'Nefryのためのプログラム共有サイト'
+site_author: 'Nefry-community'
+site_dir: 'site/'
+site_url: 'https://program.nefry.studio/'
+
+extra_css: ['extra.css']
+
+# Repository
+repo_name: 'GitHub'
+repo_url: 'https://github.com/Nefry-Community/ProgramMaster'
+
+# Copyright
+copyright: 'Copyright (c) 2016 Nefry Community'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme: 'material'
+
+# Options
+extra:
+  version: '1.0.0'
+  logo: 'img/top/icon.jpeg'
+  palette:
+    primary: 'Light Green'
+    accent: 'Orange'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  author:
+    github: 'wamisnet'
+    twitter: 'wamisnet'
+
+# Google Analytics
+google_analytics:
+  - 'UA-62256925-4'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'
