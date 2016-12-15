@@ -1,8 +1,8 @@
 # EasyEditor
 
 <!-- プログラムの内容を記載してください。  -->
-EasyEditorについてはこちらを参考にしてください。
-http://qiita.com/wamisnet/items/0a229cca664b189eb518
+EasyEditorについては[こちら](http://qiita.com/wamisnet/items/0a229cca664b189eb518)を参考にしてください。  
+
 
 |実装済みコード|引数を含める|具体例|何ができるのか|
 |:---:|:---:|:---:|:---:|
