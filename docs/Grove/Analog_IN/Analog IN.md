@@ -20,7 +20,7 @@ Groveのアナログ入力センサ or Analog入力
 ダウンロードリンクとは、Nefry Web ConfigのWeb updateのページのURIに入力することでNefry自身がプログラムをダウンロードして更新ができるものになります。
 
 !!!link
-	Grove/Analog_IN
+	/Grove/Analog_IN
 
 
 ##サンプルプログラム

@@ -1,12 +1,12 @@
 #include <Nefry.h>
-#define PIN D4
+#define PIN D2
 void setup() {
   Nefry.setProgramName("Digital OUT");
   Nefry.println("Digital OUT");
   pinMode(PIN,OUTPUT);//出力モード切り替え
 }
 void loop() {
-  //SWを押した時にD5にLEDを差すと点灯する
+  //SWを押した時にD2にLEDを差すと点灯する
   if(Nefry.push_SW()){
     //押した時
     digitalWrite(PIN,HIGH);

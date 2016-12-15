@@ -1,5 +1,5 @@
 #include <Nefry.h>
-#define PIN D4
+#define PIN D2
 void setup() {
   Nefry.setProgramName("Analog OUT");
   Nefry.println("Analog OUT");
