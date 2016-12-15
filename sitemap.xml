@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>https://program.nefry.studio//Template/</loc>
+     <loc>https://program.nefry.studio//テンプレートファイル/</loc>
      <lastmod>2016-12-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -36,6 +36,16 @@
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>https://program.nefry.studio/</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
         
     <url>
      <loc>https://program.nefry.studio/</loc>

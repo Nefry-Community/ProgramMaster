@@ -56,32 +56,32 @@
             "title": "\u30d4\u30f3\u30a2\u30b5\u30a4\u30f3"
         }, 
         {
-            "location": "/Template/", 
+            "location": "/\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30d5\u30a1\u30a4\u30eb/", 
             "text": "TemplateFile\n#\n\n\n\n\n\n\u5fc5\u8981\u306a\u3082\u306e\u3001\u30c4\u30fc\u30eb\n#\n\n\n\n\n\n\u52d5\u4f5c\u78ba\u8a8d\n#\n\n\n\n\n\n\n\n\nNefry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30f3\u30af\n#\n\n\n\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30f3\u30af\u3068\u306f\u3001Nefry Web Config\u306eWeb update\u306e\u30da\u30fc\u30b8\u306eURI\u306b\u5165\u529b\u3059\u308b\u3053\u3068\u3067Nefry\u81ea\u8eab\u304c\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u66f4\u65b0\u304c\u3067\u304d\u308b\u3082\u306e\u306b\u306a\u308a\u307e\u3059\u3002\n\n\n\n\nLink\n\n\nGrove/Analog_IN\n\n\n\n\n\u30b5\u30f3\u30d7\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0\n#", 
-            "title": "Template"
+            "title": "\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30d5\u30a1\u30a4\u30eb"
         }, 
         {
-            "location": "/Template/#templatefile", 
+            "location": "/\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30d5\u30a1\u30a4\u30eb/#templatefile", 
             "text": "", 
             "title": "TemplateFile"
         }, 
         {
-            "location": "/Template/#_1", 
+            "location": "/\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30d5\u30a1\u30a4\u30eb/#_1", 
             "text": "", 
             "title": "\u5fc5\u8981\u306a\u3082\u306e\u3001\u30c4\u30fc\u30eb"
         }, 
         {
-            "location": "/Template/#_2", 
+            "location": "/\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30d5\u30a1\u30a4\u30eb/#_2", 
             "text": "Nefry", 
             "title": "\u52d5\u4f5c\u78ba\u8a8d"
         }, 
         {
-            "location": "/Template/#_3", 
+            "location": "/\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30d5\u30a1\u30a4\u30eb/#_3", 
             "text": "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30f3\u30af\u3068\u306f\u3001Nefry Web Config\u306eWeb update\u306e\u30da\u30fc\u30b8\u306eURI\u306b\u5165\u529b\u3059\u308b\u3053\u3068\u3067Nefry\u81ea\u8eab\u304c\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u66f4\u65b0\u304c\u3067\u304d\u308b\u3082\u306e\u306b\u306a\u308a\u307e\u3059\u3002   Link  Grove/Analog_IN", 
             "title": "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30f3\u30af"
         }, 
         {
-            "location": "/Template/#_4", 
+            "location": "/\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30d5\u30a1\u30a4\u30eb/#_4", 
             "text": "", 
             "title": "\u30b5\u30f3\u30d7\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0"
         }, 
@@ -204,6 +204,56 @@
             "location": "/Grove/Digital_OUT/Digital OUT/#_4", 
             "text": "", 
             "title": "\u30b5\u30f3\u30d7\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/easyEditor/", 
+            "text": "EasyEditor\n#\n\n\n\n\n\nEasyEditor\u306b\u3064\u3044\u3066\u306f\u3053\u3061\u3089\u3092\u53c2\u8003\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u3002\nhttp://qiita.com/wamisnet/items/0a229cca664b189eb518\n\n\n\n\n\n\n\n\n\u5b9f\u88c5\u6e08\u307f\u30b3\u30fc\u30c9\n\n\n\u5f15\u6570\u3092\u542b\u3081\u308b\n\n\n\u5177\u4f53\u4f8b\n\n\n\u4f55\u304c\u3067\u304d\u308b\u306e\u304b\n\n\n\n\n\n\n\n\n\n\ndigitalWrite\n\n\ndigitalWrite(\u30d4\u30f3,HIGH or LOW);\n\n\ndigitalWrite(D5,HIGH);\n\n\nHIGH\u304bLOW\u304b\u51fa\u529b\u3067\u304d\u308b\n\n\n\n\n\n\ndigitalRead\n\n\ndigitalRead(\u30d4\u30f3)\n\n\ndigitalRead(D4);\n\n\nHIGH\u304bLOW\u304b\u53d6\u5f97\u3067\u304d\u308b\n\n\n\n\n\n\nanalogWrite\n\n\nanalogWrite(\u30d4\u30f3,0-1023);\n\n\nanalogWrite(D3,900);\n\n\nD0-D5\u30920-1023\u6bb5\u968e\u3067\u51fa\u529b\u3067\u304d\u308b\n\n\n\n\n\n\nanalogRead\n\n\nanalogRead();\n\n\nanalogRead();\n\n\nA0\u30d4\u30f3\u306e\u72b6\u614b\u3092\u53d6\u5f97\u3067\u304d\u308b\n\n\n\n\n\n\npwmWrite\n\n\npwmWrite(\u30d4\u30f3,0-99)\n\n\npwmWrite(D0,90);\n\n\nCocoaBit\u5411\u3051\u306e\u30a2\u30ca\u30ed\u30b0\u51fa\u529b\n\n\n\n\n\n\ntone\n\n\ntone(\u30d4\u30f3,\u5468\u6ce2\u6570,\u4f55\u30df\u30ea\u79d2\u9cf4\u3089\u3059\u304b)\n\n\ntone(D0,262,500);\n\n\n\u97f3\u3092\u9cf4\u3089\u3059\n\n\n\n\n\n\n\n\nTone\u95a2\u6570\u306b\u3064\u3044\u3066\u306f\n\u3053\u3061\u3089\n\u306b\u307e\u3068\u3081\u3066\u304a\u304d\u307e\u3057\u305f\u3002\n\n\n\u5fc5\u8981\u306a\u3082\u306e\u3001\u30c4\u30fc\u30eb\n#\n\n\n\n\n\n\u52d5\u4f5c\u78ba\u8a8d\n#\n\n\n\n\n\n\n\n\nNefry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30f3\u30af\n#\n\n\n\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30f3\u30af\u3068\u306f\u3001Nefry Web Config\u306eWeb update\u306e\u30da\u30fc\u30b8\u306eURI\u306b\u5165\u529b\u3059\u308b\u3053\u3068\u3067Nefry\u81ea\u8eab\u304c\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u66f4\u65b0\u304c\u3067\u304d\u308b\u3082\u306e\u306b\u306a\u308a\u307e\u3059\u3002\n\n\nNefry\u5411\u3051\n\n\n\n\nLink\n\n\n/Nefry/easyEditor\n\n\n\n\nCocoaBit\u5411\u3051\n\n\n\n\nLink\n\n\n/CocoaBit/easyEditor\n\n\n\n\n\u305d\u308c\u305e\u308c\u306e\u9055\u3044\u306f\u30d4\u30f3\u914d\u7f6e\u306e\u9055\u3044\u306b\u3088\u308b\u3082\u306e\u3067\u3059\u3002\n\n\n\u30b5\u30f3\u30d7\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0\n#", 
+            "title": "easyEditor"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/easyEditor/#easyeditor", 
+            "text": "EasyEditor\u306b\u3064\u3044\u3066\u306f\u3053\u3061\u3089\u3092\u53c2\u8003\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u3002\nhttp://qiita.com/wamisnet/items/0a229cca664b189eb518     \u5b9f\u88c5\u6e08\u307f\u30b3\u30fc\u30c9  \u5f15\u6570\u3092\u542b\u3081\u308b  \u5177\u4f53\u4f8b  \u4f55\u304c\u3067\u304d\u308b\u306e\u304b      digitalWrite  digitalWrite(\u30d4\u30f3,HIGH or LOW);  digitalWrite(D5,HIGH);  HIGH\u304bLOW\u304b\u51fa\u529b\u3067\u304d\u308b    digitalRead  digitalRead(\u30d4\u30f3)  digitalRead(D4);  HIGH\u304bLOW\u304b\u53d6\u5f97\u3067\u304d\u308b    analogWrite  analogWrite(\u30d4\u30f3,0-1023);  analogWrite(D3,900);  D0-D5\u30920-1023\u6bb5\u968e\u3067\u51fa\u529b\u3067\u304d\u308b    analogRead  analogRead();  analogRead();  A0\u30d4\u30f3\u306e\u72b6\u614b\u3092\u53d6\u5f97\u3067\u304d\u308b    pwmWrite  pwmWrite(\u30d4\u30f3,0-99)  pwmWrite(D0,90);  CocoaBit\u5411\u3051\u306e\u30a2\u30ca\u30ed\u30b0\u51fa\u529b    tone  tone(\u30d4\u30f3,\u5468\u6ce2\u6570,\u4f55\u30df\u30ea\u79d2\u9cf4\u3089\u3059\u304b)  tone(D0,262,500);  \u97f3\u3092\u9cf4\u3089\u3059     Tone\u95a2\u6570\u306b\u3064\u3044\u3066\u306f \u3053\u3061\u3089 \u306b\u307e\u3068\u3081\u3066\u304a\u304d\u307e\u3057\u305f\u3002", 
+            "title": "EasyEditor"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/easyEditor/#_1", 
+            "text": "", 
+            "title": "\u5fc5\u8981\u306a\u3082\u306e\u3001\u30c4\u30fc\u30eb"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/easyEditor/#_2", 
+            "text": "Nefry", 
+            "title": "\u52d5\u4f5c\u78ba\u8a8d"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/easyEditor/#_3", 
+            "text": "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30f3\u30af\u3068\u306f\u3001Nefry Web Config\u306eWeb update\u306e\u30da\u30fc\u30b8\u306eURI\u306b\u5165\u529b\u3059\u308b\u3053\u3068\u3067Nefry\u81ea\u8eab\u304c\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u66f4\u65b0\u304c\u3067\u304d\u308b\u3082\u306e\u306b\u306a\u308a\u307e\u3059\u3002  Nefry\u5411\u3051   Link  /Nefry/easyEditor   CocoaBit\u5411\u3051   Link  /CocoaBit/easyEditor   \u305d\u308c\u305e\u308c\u306e\u9055\u3044\u306f\u30d4\u30f3\u914d\u7f6e\u306e\u9055\u3044\u306b\u3088\u308b\u3082\u306e\u3067\u3059\u3002", 
+            "title": "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u30ea\u30f3\u30af"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/easyEditor/#_4", 
+            "text": "", 
+            "title": "\u30b5\u30f3\u30d7\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/tone/", 
+            "text": "Tone\u306b\u3064\u3044\u3066\n#\n\n\nTone\u95a2\u6570\u306b\u3064\u3044\u3066\u307e\u3068\u3081\u3066\u304a\u304d\u307e\u3059\u3002\n\n\n\u97f3\u306e\u9ad8\u3055\u306b\u3064\u3044\u3066\n#\n\n\ntone\u3067\u8a2d\u5b9a\u3059\u308b\u5468\u6ce2\u6570(Hz)\u5024\u3067\u3059\u3002(\u6570\u5024\u304c\u5927\u304d\u304f\u306a\u308b\u307b\u3069\u9ad8\u97f3\u306b\u306a\u308a\u307e\u3059\u3002)\n#\n\n\n\n\n\n\n\n\n\u30ad\u30fc\n\n\n\u5468\u6ce2\u6570\n\n\n\n\n\n\n\n\n\n\nB0\n\n\n31\n\n\n\n\n\n\nC1\n\n\n33\n\n\n\n\n\n\nCS1\n\n\n35\n\n\n\n\n\n\nD1\n\n\n37\n\n\n\n\n\n\nDS1\n\n\n39\n\n\n\n\n\n\nE1\n\n\n41\n\n\n\n\n\n\nF1\n\n\n44\n\n\n\n\n\n\nFS1\n\n\n46\n\n\n\n\n\n\nG1\n\n\n49\n\n\n\n\n\n\nGS1\n\n\n52\n\n\n\n\n\n\nA1\n\n\n55\n\n\n\n\n\n\nAS1\n\n\n58\n\n\n\n\n\n\nB1\n\n\n62\n\n\n\n\n\n\nC2\n\n\n65\n\n\n\n\n\n\nCS2\n\n\n69\n\n\n\n\n\n\nD2\n\n\n73\n\n\n\n\n\n\nDS2\n\n\n78\n\n\n\n\n\n\nE2\n\n\n82\n\n\n\n\n\n\nF2\n\n\n87\n\n\n\n\n\n\nFS2\n\n\n93\n\n\n\n\n\n\nG2\n\n\n98\n\n\n\n\n\n\nGS2\n\n\n104\n\n\n\n\n\n\nA2\n\n\n110\n\n\n\n\n\n\nAS2\n\n\n117\n\n\n\n\n\n\nB2\n\n\n123\n\n\n\n\n\n\nC3\n\n\n131\n\n\n\n\n\n\nCS3\n\n\n139\n\n\n\n\n\n\nD3\n\n\n147\n\n\n\n\n\n\nDS3\n\n\n156\n\n\n\n\n\n\nE3\n\n\n165\n\n\n\n\n\n\nF3\n\n\n175\n\n\n\n\n\n\nFS3\n\n\n185\n\n\n\n\n\n\nG3\n\n\n196\n\n\n\n\n\n\nGS3\n\n\n208\n\n\n\n\n\n\nA3\n\n\n220\n\n\n\n\n\n\nAS3\n\n\n233\n\n\n\n\n\n\nB3\n\n\n247\n\n\n\n\n\n\nC4\n\n\n262 // \u30c9\n\n\n\n\n\n\nCS4\n\n\n277\n\n\n\n\n\n\nD4\n\n\n294\n\n\n\n\n\n\nDS4\n\n\n311\n\n\n\n\n\n\nE4\n\n\n330\n\n\n\n\n\n\nF4\n\n\n349\n\n\n\n\n\n\nFS4\n\n\n370\n\n\n\n\n\n\nG4\n\n\n392\n\n\n\n\n\n\nGS4\n\n\n415\n\n\n\n\n\n\nA4\n\n\n440\n\n\n\n\n\n\nAS4\n\n\n466\n\n\n\n\n\n\nB4\n\n\n494\n\n\n\n\n\n\nC5\n\n\n523\n\n\n\n\n\n\nCS5\n\n\n554\n\n\n\n\n\n\nD5\n\n\n587\n\n\n\n\n\n\nDS5\n\n\n622\n\n\n\n\n\n\nE5\n\n\n659\n\n\n\n\n\n\nF5\n\n\n698\n\n\n\n\n\n\nFS5\n\n\n740\n\n\n\n\n\n\nG5\n\n\n784\n\n\n\n\n\n\nGS5\n\n\n831\n\n\n\n\n\n\nA5\n\n\n880\n\n\n\n\n\n\nAS5\n\n\n932\n\n\n\n\n\n\nB5\n\n\n988\n\n\n\n\n\n\nC6\n\n\n1047\n\n\n\n\n\n\nCS6\n\n\n1109\n\n\n\n\n\n\nD6\n\n\n1175\n\n\n\n\n\n\nDS6\n\n\n1245\n\n\n\n\n\n\nE6\n\n\n1319\n\n\n\n\n\n\nF6\n\n\n1397\n\n\n\n\n\n\nFS6\n\n\n1480\n\n\n\n\n\n\nG6\n\n\n1568\n\n\n\n\n\n\nGS6\n\n\n1661\n\n\n\n\n\n\nA6\n\n\n1760\n\n\n\n\n\n\nAS6\n\n\n1865\n\n\n\n\n\n\nB6\n\n\n1976\n\n\n\n\n\n\nC7\n\n\n2093\n\n\n\n\n\n\nCS7\n\n\n2217\n\n\n\n\n\n\nD7\n\n\n2349\n\n\n\n\n\n\nDS7\n\n\n2489\n\n\n\n\n\n\nE7\n\n\n2637\n\n\n\n\n\n\nF7\n\n\n2794\n\n\n\n\n\n\nFS7\n\n\n2960\n\n\n\n\n\n\nG7\n\n\n3136\n\n\n\n\n\n\nGS7\n\n\n3322\n\n\n\n\n\n\nA7\n\n\n3520\n\n\n\n\n\n\nAS7\n\n\n3729\n\n\n\n\n\n\nB7\n\n\n3951\n\n\n\n\n\n\nC8\n\n\n4186\n\n\n\n\n\n\nCS8\n\n\n4435\n\n\n\n\n\n\nD8\n\n\n4699\n\n\n\n\n\n\nDS8\n\n\n4978", 
+            "title": "Tone"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/tone/#tone", 
+            "text": "Tone\u95a2\u6570\u306b\u3064\u3044\u3066\u307e\u3068\u3081\u3066\u304a\u304d\u307e\u3059\u3002", 
+            "title": "Tone\u306b\u3064\u3044\u3066"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/tone/#_1", 
+            "text": "", 
+            "title": "\u97f3\u306e\u9ad8\u3055\u306b\u3064\u3044\u3066"
+        }, 
+        {
+            "location": "/Nefry/easyEditor/tone/#tonehz", 
+            "text": "\u30ad\u30fc  \u5468\u6ce2\u6570      B0  31    C1  33    CS1  35    D1  37    DS1  39    E1  41    F1  44    FS1  46    G1  49    GS1  52    A1  55    AS1  58    B1  62    C2  65    CS2  69    D2  73    DS2  78    E2  82    F2  87    FS2  93    G2  98    GS2  104    A2  110    AS2  117    B2  123    C3  131    CS3  139    D3  147    DS3  156    E3  165    F3  175    FS3  185    G3  196    GS3  208    A3  220    AS3  233    B3  247    C4  262 // \u30c9    CS4  277    D4  294    DS4  311    E4  330    F4  349    FS4  370    G4  392    GS4  415    A4  440    AS4  466    B4  494    C5  523    CS5  554    D5  587    DS5  622    E5  659    F5  698    FS5  740    G5  784    GS5  831    A5  880    AS5  932    B5  988    C6  1047    CS6  1109    D6  1175    DS6  1245    E6  1319    F6  1397    FS6  1480    G6  1568    GS6  1661    A6  1760    AS6  1865    B6  1976    C7  2093    CS7  2217    D7  2349    DS7  2489    E7  2637    F7  2794    FS7  2960    G7  3136    GS7  3322    A7  3520    AS7  3729    B7  3951    C8  4186    CS8  4435    D8  4699    DS8  4978", 
+            "title": "tone\u3067\u8a2d\u5b9a\u3059\u308b\u5468\u6ce2\u6570(Hz)\u5024\u3067\u3059\u3002(\u6570\u5024\u304c\u5927\u304d\u304f\u306a\u308b\u307b\u3069\u9ad8\u97f3\u306b\u306a\u308a\u307e\u3059\u3002)"
         }
     ]
 }

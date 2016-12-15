@@ -9,19 +9,19 @@
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     
       
-        <title>Digital OUT - Nefry Platform</title>
+        <title>easyEditor - Nefry Platform</title>
       
       
       
-        <link rel="canonical" href="https://program.nefry.studio/Grove/Digital_OUT/Digital OUT/">
+        <link rel="canonical" href="https://program.nefry.studio/Nefry/easyEditor/easyEditor/">
       
       
         <meta name="author" content="Nefry-community">
       
     
-    <meta property="og:url" content="https://program.nefry.studio/Grove/Digital_OUT/Digital OUT/">
+    <meta property="og:url" content="https://program.nefry.studio/Nefry/easyEditor/easyEditor/">
     <meta property="og:title" content="Nefry Platform">
-    <meta property="og:image" content="https://program.nefry.studio/Grove/Digital_OUT/Digital OUT//../../../img/top/icon.jpeg">
+    <meta property="og:image" content="https://program.nefry.studio/Nefry/easyEditor/easyEditor//../../../img/top/icon.jpeg">
     <meta name="apple-mobile-web-app-title" content="Nefry Platform">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -99,16 +99,16 @@
           <span class="path">
             
               
-                Grove <i class="icon icon-link"></i>
+                Nefry <i class="icon icon-link"></i>
               
             
               
-                Digital OUT <i class="icon icon-link"></i>
+                easyEditor <i class="icon icon-link"></i>
               
             
           </span>
         
-        Digital OUT
+        easyEditor
       </div>
     </div>
     
@@ -220,7 +220,7 @@
       
         
   <li>
-    <a class="" title="Analog IN" href="../../Analog_IN/Analog%20IN/">
+    <a class="" title="Analog IN" href="../../../Grove/Analog_IN/Analog%20IN/">
       Analog IN
     </a>
     
@@ -238,7 +238,7 @@
       
         
   <li>
-    <a class="" title="Analog OUT" href="../../Analog_OUT/Analog%20OUT/">
+    <a class="" title="Analog OUT" href="../../../Grove/Analog_OUT/Analog%20OUT/">
       Analog OUT
     </a>
     
@@ -256,7 +256,7 @@
       
         
   <li>
-    <a class="" title="Digital IN" href="../../Digital_IN/Digital%20IN/">
+    <a class="" title="Digital IN" href="../../../Grove/Digital_IN/Digital%20IN/">
       Digital IN
     </a>
     
@@ -274,8 +274,35 @@
       
         
   <li>
-    <a class="current" title="Digital OUT" href="./">
+    <a class="" title="Digital OUT" href="../../../Grove/Digital_OUT/Digital%20OUT/">
       Digital OUT
+    </a>
+    
+  </li>
+
+      
+    </ul>
+  </li>
+
+      
+    </ul>
+  </li>
+
+          
+            
+  <li>
+    <span class="section">Nefry</span>
+    <ul>
+      
+        
+  <li>
+    <span class="section">easyEditor</span>
+    <ul>
+      
+        
+  <li>
+    <a class="current" title="easyEditor" href="./">
+      easyEditor
     </a>
     
       
@@ -314,36 +341,9 @@
   </li>
 
       
-    </ul>
-  </li>
-
-      
-    </ul>
-  </li>
-
-          
-            
-  <li>
-    <span class="section">Nefry</span>
-    <ul>
-      
         
   <li>
-    <span class="section">easyEditor</span>
-    <ul>
-      
-        
-  <li>
-    <a class="" title="easyEditor" href="../../../Nefry/easyEditor/easyEditor/">
-      easyEditor
-    </a>
-    
-  </li>
-
-      
-        
-  <li>
-    <a class="" title="Tone" href="../../../Nefry/easyEditor/tone/">
+    <a class="" title="Tone" href="../tone/">
       Tone
     </a>
     
@@ -389,11 +389,60 @@
       <article class="article">
         <div class="wrapper">
           
-          <h1 id="digital-out">Digital OUT<a class="headerlink" href="#digital-out" title="Permanent link">#</a></h1>
+          <h1 id="easyeditor">EasyEditor<a class="headerlink" href="#easyeditor" title="Permanent link">#</a></h1>
 <!-- プログラムの内容を記載してください。  -->
 
-<p>Grove向けにHIGH or LOWのどちらかを出力できる、デジタル出力に対応しています。
-こちらのプログラムではD2ソケットの対応ですが、プログラムを変更すれば、ほかのソケット変更することも可能です。</p>
+<p>EasyEditorについてはこちらを参考にしてください。
+http://qiita.com/wamisnet/items/0a229cca664b189eb518</p>
+<table>
+<thead>
+<tr>
+<th align="center">実装済みコード</th>
+<th align="center">引数を含める</th>
+<th align="center">具体例</th>
+<th align="center">何ができるのか</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">digitalWrite</td>
+<td align="center">digitalWrite(ピン,HIGH or LOW);</td>
+<td align="center">digitalWrite(D5,HIGH);</td>
+<td align="center">HIGHかLOWか出力できる</td>
+</tr>
+<tr>
+<td align="center">digitalRead</td>
+<td align="center">digitalRead(ピン)</td>
+<td align="center">digitalRead(D4);</td>
+<td align="center">HIGHかLOWか取得できる</td>
+</tr>
+<tr>
+<td align="center">analogWrite</td>
+<td align="center">analogWrite(ピン,0-1023);</td>
+<td align="center">analogWrite(D3,900);</td>
+<td align="center">D0-D5を0-1023段階で出力できる</td>
+</tr>
+<tr>
+<td align="center">analogRead</td>
+<td align="center">analogRead();</td>
+<td align="center">analogRead();</td>
+<td align="center">A0ピンの状態を取得できる</td>
+</tr>
+<tr>
+<td align="center">pwmWrite</td>
+<td align="center">pwmWrite(ピン,0-99)</td>
+<td align="center">pwmWrite(D0,90);</td>
+<td align="center">CocoaBit向けのアナログ出力</td>
+</tr>
+<tr>
+<td align="center">tone</td>
+<td align="center">tone(ピン,周波数,何ミリ秒鳴らすか)</td>
+<td align="center">tone(D0,262,500);</td>
+<td align="center">音を鳴らす</td>
+</tr>
+</tbody>
+</table>
+<p>Tone関数については<a href="../../../tone">こちら</a>にまとめておきました。</p>
 <h2 id="_1">必要なもの、ツール<a class="headerlink" href="#_1" title="Permanent link">#</a></h2>
 <!-- 表 -->
 
@@ -412,16 +461,23 @@
 </table>
 <h2 id="_3">ダウンロードリンク<a class="headerlink" href="#_3" title="Permanent link">#</a></h2>
 <p>ダウンロードリンクとは、Nefry Web ConfigのWeb updateのページのURIに入力することでNefry自身がプログラムをダウンロードして更新ができるものになります。</p>
+<p>Nefry向け</p>
 <div class="admonition link">
 <p class="admonition-title">Link</p>
-<p>/Grove/Digital_OUT</p>
+<p>/Nefry/easyEditor</p>
 </div>
+<p>CocoaBit向け</p>
+<div class="admonition link">
+<p class="admonition-title">Link</p>
+<p>/CocoaBit/easyEditor</p>
+</div>
+<p>それぞれの違いはピン配置の違いによるものです。</p>
 <h2 id="_4">サンプルプログラム<a class="headerlink" href="#_4" title="Permanent link">#</a></h2>
 <!-- 接続例があればなおよい -->
 
-<!-- master以下の部分を変更してください。 -->
+<!-- gh-pages以下の部分を変更してください。 -->
 
-<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Grove/Digital_OUT/Digital_OUT.ino">
+<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Nefry/easyEditor/easyEditor.ino">
 </script>
           <aside class="copyright" role="note">
             
@@ -441,7 +497,7 @@
   <nav class="pagination" aria-label="Footer">
     <div class="previous">
       
-        <a href="../../Digital_IN/Digital%20IN/" title="Digital IN">
+        <a href="../../../Grove/Digital_OUT/Digital%20OUT/" title="Digital OUT">
           <span class="direction">
             Previous
           </span>
@@ -451,7 +507,7 @@
             </div>
             <div class="stretch">
               <div class="title">
-                Digital IN
+                Digital OUT
               </div>
             </div>
           </div>
@@ -460,14 +516,14 @@
     </div>
     <div class="next">
       
-        <a href="../../../Nefry/easyEditor/easyEditor/" title="easyEditor">
+        <a href="../tone/" title="Tone">
           <span class="direction">
             Next
           </span>
           <div class="page">
             <div class="stretch">
               <div class="title">
-                easyEditor
+                Tone
               </div>
             </div>
             <div class="button button-next" role="button" aria-label="Next">
