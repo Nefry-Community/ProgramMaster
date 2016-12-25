@@ -1,6 +1,8 @@
+#include <Nefry.h>
+
 void setup() {
   // put your setup code here, to run once:
-
+  Nefry.setProgramName("Default Program");
 }
 
 void loop() {
