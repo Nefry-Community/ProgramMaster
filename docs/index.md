@@ -1,9 +1,11 @@
 ﻿
-# Nefryのトップページ
+# Nefry Platformのトップページ
 「Nefry（ねふりー）」とは、MilkcocoaやmyThings、IFTTTなどのインターネットのサービスとハードウェアを簡単に接続できるモジュールです。
 
 
 また、スマートフォンで使うようなモバイルバッテリーで動くので、場所を選ばずに使えます。
+
+**[公式サイトはこちら！](https://nefry.studio/)**
 
 ![Nefry](https://qiita-image-store.s3.amazonaws.com/0/97208/95705e6e-e8e8-9f9d-6778-7de63860a01e.jpeg)
 
@@ -51,5 +53,5 @@ Nefryのドキュメントとなっております。[https://wamisnet.github.io
 ##ピンアサイン
 ![Nefry_Pin.png](https://qiita-image-store.s3.amazonaws.com/0/97208/ba4a18a9-c793-bca0-5d3a-da47eea8ef71.png)
 
-
+2017/1/1:プログラム追加
 2016/12/12：サイト公開
