@@ -24,7 +24,7 @@ NefryのSWを押した時にIFTTTにトリガーがかかるようになりま�
 ダウンロードリンクとは、Nefry Web ConfigのWeb updateのページのURIに入力することでNefry自身がプログラムをダウンロードして更新ができるものになります。
 
 !!!link
-	/Nefry/Send/IFTTTSwitch
+	/Nefry/IFTTT/Send/IFTTTSwitch
 
 
 ##サンプルプログラム
@@ -32,7 +32,7 @@ NefryのSWを押した時にIFTTTにトリガーがかかるようになりま�
 <!-- 接続例があればなおよい -->
 
 <!-- gh-pages以下の部分を変更してください。 -->
-<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Nefry/Send/IFTTTSwitch/IFTTTSwitch.ino">
+<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Nefry/IFTTT/Send/IFTTTSwitch/IFTTTSwitch.ino">
 </script>
 
 
