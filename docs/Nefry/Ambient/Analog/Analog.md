@@ -31,7 +31,7 @@ Ambientでグラフ化します。
 <!-- 接続例があればなおよい -->
 
 <!-- gh-pages以下の部分を変更してください。 -->
-<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Nefry/Ambient/Analog.ino">
+<script src="http://gist-it.appspot.com/github/Nefry-Community/ProgramMaster/blob/gh-pages/Nefry/Ambient/Analog/Analog.ino">
 </script>
 
 
